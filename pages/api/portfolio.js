@@ -24,7 +24,8 @@ const portfolio = [
         id: 1,
         projectName: "Odds",
         url: "https://b2c.otawix.com/",
-        image: "projects/odds.mkv",
+        image: "projects/odds.mp4",
+        poster: "projects/odds.png",
         projectDetail: "Script allows user to input starting and ending data and script would use that parameters to scrape odds data through oddsshark.com website",
         technologiesUsed: [
             {
@@ -39,7 +40,8 @@ const portfolio = [
         id: 2,
         projectName: "Life Coach Promo Video",
         url: "/",
-        image: "projects/LifeCoach.mkv",
+        image: "projects/LifeCoach.mp4",
+        poster: "projects/jpc.png",
         projectDetail: "Life Coach video edited using DaVinchi Resolve",
         technologiesUsed: [
             {
@@ -51,7 +53,8 @@ const portfolio = [
         id: 2,
         projectName: "Mozzart",
         url: "https://culyte.com",
-        image: "projects/mozz.mkv",
+        image: "projects/mozz.mp4",
+        poster:"projects/mozzart.jpg",
         projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
         technologiesUsed: [
             {

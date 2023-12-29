@@ -4,10 +4,11 @@ const PortfolioCard = ({ data }) => {
     return (
         <div className="card_stylings overflow-hidden h-full">
             {
-            (data?.image.split(".")[1] == "mkv"?
+            (data?.image.split(".")[1] == "mp4"?
                 <video
                 src={data?.image}
                 controls
+                poster={data?.poster}
                 alt="portfolio img"
                 className="w-full object-cover opacity-30 h-32 sm:h-48 md:h-64"
             ></video>:
