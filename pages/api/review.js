@@ -1,31 +1,31 @@
 const review = [
     {
         id: 0,
-        clientName: 'Mustafash',
-        clientLocation: 'Egypt',
+        clientName: 'dconsulted',
+        clientLocation: 'Canada',
         clientSource: 'Fiverr',
-        clientReview: 'It is always nice to work with him. The work is finished quickly and he does more than is asked of him. It is also clear that he has a lot of knowledge of the work he does. I look forward to our next collaboration.'
+        clientReview: 'Great communication and search done in time!'
     },
     {
         id: 2,
-        clientName: 'Melissabrown255',
-        clientLocation: 'United States',
+        clientName: 'gngreatstart',
+        clientLocation: 'India',
         clientSource: 'Fiverr',
-        clientReview: 'He is very good with communication and experienced website developer, great experience to work with him. '
+        clientReview: 'Excellent freelancer. Honest and skilled :) Highly recommended for Python related projects.'
     },
     {
         id: 3,
-        clientName: 'Jake Corry',
+        clientName: 'David Wilkes',
         clientLocation: 'Germany',
-        clientSource: 'Fiverr',
-        clientReview: "Osama is extremely knowledgeable and helpful. He knows in and out of web app development . His understanding of different technologies and frameworks in the space is also very impressive. I hope I get the chance to work with him again"
+        clientSource: 'Upwork',
+        clientReview: "Good small job, done in time. Good communications."
     },
     {
         id: 4,
-        clientName: 'Blaise Labriola',
-        clientLocation: 'France',
+        clientName: 'mrallusive',
+        clientLocation: 'United States',
         clientSource: 'Fiverr',
-        clientReview: 'I have worked with Osama and he is very professional and excellent software  developer. I admire his speed of development and quality of work when given an assignment.'
+        clientReview: 'He did an amazing job!'
     },
 ]
 export default function handler(req, res) {

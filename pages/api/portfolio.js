@@ -1,85 +1,64 @@
 const portfolio = [
     {
         id: 0,
-        projectName: "JMM Technologies",
-        url: "https://jmm.ltd/",
-        image: "projects/jmm.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
-        technologiesUsed: [
-            {
-                tech: "ReactJS"
-            },
-            {
-                tech: ".net"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
-            },
-        ]
-    },
-    {
-        id: 1,
-        projectName: "Otawix",
-        url: "https://b2c.otawix.com/",
-        image: "projects/otawix.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        projectName: "Hydrte",
+        url: "https://hydrte.netlify.app/",
+        image: "projects/hydrte.png",
+        projectDetail: "Commercial website which allow users to request their orders by filling the form.",
         technologiesUsed: [
             {
                 tech: "NextJS"
             },
             {
-                tech: "NodeJS"
+                tech: "JavaScript"
             },
             {
-                tech: "MUI"
+                tech: "CSS"
             },
             {
-                tech: "TailwindCSS"
+                tech: "EmailJS"
             },
         ]
     },
     {
-        id: 2,
-        projectName: "Spatay",
-        url: "https://spatay.com/",
-        image: "projects/spatay.png",
-        projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
+        id: 1,
+        projectName: "Odds",
+        url: "https://b2c.otawix.com/",
+        image: "projects/odds.mkv",
+        projectDetail: "Script allows user to input starting and ending data and script would use that parameters to scrape odds data through oddsshark.com website",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Python"
             },
             {
-                tech: "NodeJS"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
+                tech: "Selenium"
             },
         ]
     },
     {
         id: 2,
-        projectName: "Culyte",
+        projectName: "Life Coach Promo Video",
+        url: "/",
+        image: "projects/LifeCoach.mkv",
+        projectDetail: "Life Coach video edited using DaVinchi Resolve",
+        technologiesUsed: [
+            {
+                tech: "DaVinci Resolve"
+            },
+        ]
+    },
+    {
+        id: 2,
+        projectName: "Mozzart",
         url: "https://culyte.com",
-        image: "projects/culyte.png",
+        image: "projects/mozz.mkv",
         projectDetail: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam corrupti aut veritatis, adipisci natus optio dolores cum rem? Aut perferendis fugit, eos rerum totam aspernatur iure alias temporibus ipsa perspiciatis!",
         technologiesUsed: [
             {
-                tech: "ReactJS"
+                tech: "Python"
             },
             {
-                tech: "NodeJS"
-            },
-            {
-                tech: "Ant Design"
-            },
-            {
-                tech: "TailwindCSS"
+                tech: "Selenium"
             },
         ]
     },
